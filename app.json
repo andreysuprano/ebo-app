@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ebo-app",
+    "slug": "ebo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ebo-app"
+}
